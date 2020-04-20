@@ -6,7 +6,7 @@
 ### [03. Machine Learning Modeling & CNN](https://github.com/hojisu/phishing-url-classification/tree/master/03-Machine-Learning-Modeling%20%26%20CNN)
 ### [04. Final Model CAE & DanseNet](https://github.com/hojisu/phishing-url-classification/tree/master/04-Final-Model-CAE-DanseNet)
 ### [05. Model Evaluation](https://github.com/hojisu/phishing-url-classification/tree/master/05-Model_Evaluation)
-### [Phishing URL Detection PPT](https://github.com/hojisu/phishing-url-classification/blob/master/Phishing-URL-Detection.pptx)
+### [06. Phishing URL Detection PPT](https://github.com/hojisu/phishing-url-classification/blob/master/06-Phishing-URL-Detection-PPT/Phishing-URL-Detection-PPT.pdf)
 
 ***
 
