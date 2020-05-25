@@ -14,7 +14,7 @@
 오픈소스 웹 디렉터리 저장소로부터 다수의 URL 을 수집하였습니다. 기관측된 피싱 URL 을 데이터베이스화 하는 오픈소스 프로젝트인 Phishtank 로부터 15,000 건의 실제 피싱 URL 을 수집하였고, 웹에 게시된 페이지를 카테고리화 한 데이터베이스를 공유하는 Dmoz-ODP 프로젝트로부터 45,000 건의 정상 URL 을 수집하였습니다.
 
 ## Preprocessing & Feature Engineering
-URL으로부터 문자수준의 특징만을 추출하기 위해 각 문자는 UTF-8 인코딩 아래에서 고유한 유니코드 값으로 대체하여 정수로 할당하고 One-hot 인코딩하였습니다. 수집한 데이터셋의 URL문자 길이의 평균을 고려하여 최대 100자의 정수 시퀀스를 추출하였습니다. 
+URL로부터 문자 수준의 특징만을 추출하기 위해 각 문자는 UTF-8 인코딩 아래에서 고유한 유니코드 값으로 대체되어 One-hot 인코딩이 선행되었습니다. URL 문자 길이의 평균을 고려하여 최대 100자의 정수 시퀀스를 추출하였습니다. 문자에 할당된 정수의 시퀀스를 학습하기 때문에 단어레벨로 임베딩한 URL 벡터 대비 문자 레벨의 저수준 특징까지 고려하였습니다.
 
 ## Machine Learning Modeling & Bulid CNN
 Logistic Regression, MultinomialNB, DecisionTreeClassifier, RandomForestClassifier, GradientBoostingClassifier, XGBClassifier, MLP, CNN 모델별 10겹 교차검증을 통해 Recall을 비교하였다. 기계학습 모델 중 Recall 성능이 가장 높은 CNN 모델을 Final model과 성능 비교를 하였다. 
