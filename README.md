@@ -5,7 +5,7 @@
 ### [02. Preprocessing Feature Engineering](https://github.com/hojisu/phishing-url-classification/tree/master/02-Preprocessing-Feature-Engineering)
 ### [03. Machine Learning Modeling & CNN](https://github.com/hojisu/phishing-url-classification/tree/master/03-Machine-Learning-Modeling%20%26%20CNN)
 ### [04. Final Model CAE & DanseNet](https://github.com/hojisu/phishing-url-classification/tree/master/04-Final-Model-CAE-DenseNet)
-### [05. Model Evaluation](https://github.com/hojisu/phishing-url-classification/tree/master/05-Model_Evaluation)
+### [05. Model Evaluation](https://github.com/hojisu/phishing-url-classification/tree/master/05-Model-Evaluation)
 ### [06. Phishing URL Detection PPT](https://github.com/hojisu/phishing-url-classification/blob/master/06-Phishing-URL-Detection-PPT/Phishing-URL-Detection-PPT.pdf)
 
 ***
