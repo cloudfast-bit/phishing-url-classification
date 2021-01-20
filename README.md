@@ -1,11 +1,11 @@
 # Phishing-url-classification
 
 ## Contents 
-### [01. Exploratory Data Analysis](https://github.com/hojisu/phishing-url-classification/tree/master/01-Exploratory-Data-Analysis)
-### [02. Preprocessing Feature Engineering](https://github.com/hojisu/phishing-url-classification/tree/master/02-Preprocessing-Feature-Engineering)
+### [01. Exploratory Data Analysis](https://github.com/hojisu/phishing-url-classification/blob/master/01-Exploratory-Data-Analysis/01-Exploratory-Data-Analysis.ipynb)
+### [02. Preprocessing Feature Engineering](https://github.com/hojisu/phishing-url-classification/blob/master/02-Preprocessing-Feature-Engineering/02-Preprocessing-Feature-Engineering.ipynb)
 ### [03. Machine Learning Modeling & CNN](https://github.com/hojisu/phishing-url-classification/tree/master/03-Machine-Learning-Modeling%20%26%20CNN)
-### [04. Final Model CAE & DanseNet](https://github.com/hojisu/phishing-url-classification/tree/master/04-Final-Model-CAE-DenseNet)
-### [05. Model Evaluation](https://github.com/hojisu/phishing-url-classification/tree/master/05-Model-Evaluation)
+### [04. Final Model CAE & DanseNet](https://github.com/hojisu/phishing-url-classification/blob/master/04-Final-Model-CAE-DenseNet/05-Build-CAE-DanseNet-Model.ipynb)
+### [05. Model Evaluation](https://github.com/hojisu/phishing-url-classification/blob/master/05-Model-Evaluation/06-Model_Evaluation.ipynb)
 ### [06. Phishing URL Detection PPT](https://github.com/hojisu/phishing-url-classification/blob/master/06-Phishing-URL-Detection-PPT/Phishing-URL-Detection-PPT.pdf)
 
 
